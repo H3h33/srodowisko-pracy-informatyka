@@ -1,1 +1,58 @@
+# Inspiracje i założenia projektowe
 
+## i. Inspiracje (słowa, skojarzenia, pomysły)
+
+- edukacja, nauka  
+- gryfikacja, motywacja  
+- automatyzacja zadań  
+- analiza danych, wizualizacja  
+- mobilność, responsywność  
+- społeczność, współpraca  
+- prywatność, bezpieczeństwo  
+- dostępność (accessibility)  
+- IoT, integracje sprzętowe  
+- personalizacja, rekomendacje  
+
+## ii. Krótka lista elementów projektów
+
+- cel projektu / problem do rozwiązania  
+- grupa docelowa / persona  
+- główne funkcje (MVP)  
+- interfejs użytkownika / UX  
+- architektura systemu (frontend / backend)  
+- baza danych / model danych  
+- integracje z API i usługami zewnętrznymi  
+- uwierzytelnianie i uprawnienia  
+- testy i jakość (unit, e2e)  
+- CI/CD i wdrożenie  
+- monitoring i logowanie  
+- dokumentacja i instrukcje użytkownika  
+
+## iii. Wstępne dane wejściowe
+
+- **Kategorie aplikacji:** edukacja, rozrywka, produktywność, zdrowie, finanse  
+- **Przykładowe funkcje (MVP):**
+  - rejestracja / logowanie  
+  - profil użytkownika  
+  - dashboard / podsumowanie  
+  - wyszukiwanie i filtrowanie  
+  - tworzenie i edycja treści  
+  - powiadomienia (push / e-mail)  
+  - synchronizacja między urządzeniami  
+  - eksport / import danych (CSV / JSON)  
+  - raporty i statystyki  
+- **Ograniczenia i założenia techniczne:**
+  - platformy: aplikacja webowa (PWA), opcjonalnie iOS / Android  
+  - tech stack: frontend JS/TS, backend Python/Node, baza PostgreSQL  
+  - wymagania prawne (RODO), dostępność dla użytkowników  
+
+## iv. Lista źródeł pomysłu
+
+- znajomy / sugestia od użytkownika  
+- własna potrzeba / pain point  
+- przypadkowe odkrycie / obserwacja  
+- artykuł, blog, trend technologiczny  
+- hackathon / projekt zespołowy  
+- analiza konkurencji / inspiracje z innych produktów  
+- projekty open-source / istniejące narzędzia  
+- feedback użytkowników / testy użyteczności  
