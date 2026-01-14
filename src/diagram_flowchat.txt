@@ -1,0 +1,47 @@
+# diagram_flowchat.txt
+# Prosty diagram ASCII - odwzorowanie projektu z pliku ops-projektu
+# Uzupełnij kroki szczegółami z Twojego pliku ops-projektu
+
+    +-------+
+    | START |
+    +-------+
+        |
+        v
+ +-----------------------+
+ | Wczytaj ops-projektu  |
+ +-----------------------+
+        |
+        v
+ +-----------------------+
+ | Analiza wymagań       |
+ +-----------------------+
+        |
+        v
+ +-----------------------+
+ | Projekt architektury  |
+ +-----------------------+
+        |
+        v
+ +-----------------------+
+ | Implementacja         |
+ +-----------------------+
+        |
+        v
+ +-----------------------+
+ | Testy (jednostkowe)   |
+ +-----------------------+
+        |
+        v
+ +-----------------------+
+ | Wdrożenie             |
+ +-----------------------+
+        |
+        v
+ +-----------------------+
+ | Monitorowanie i utrzym|
+ +-----------------------+
+        |
+        v
+    +--------+
+    | KONIEC |
+    +--------+

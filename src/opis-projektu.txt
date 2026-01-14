@@ -1,0 +1,4 @@
+Projekt dotyczy aplikacji wspierającej firmy w monitorowaniu zużycia zasobów IT. 
+Rozwiązuje problem braku przejrzystości i nadmiernych kosztów operacyjnych. 
+Odbiorcą są małe i średnie przedsiębiorstwa, które chcą optymalizować infrastrukturę.
+W aplikacji znajdą się: dashboard kosztów, alerty przekroczeń oraz proste raporty miesięczne.
