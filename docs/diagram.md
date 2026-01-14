@@ -2,11 +2,14 @@
 
 ```mermaid
 flowchart TD
-    START --> "Wczytaj opis projektu"
-    "Wczytaj opis projektu" --> "Analiza wymagań"
-    "Analiza wymagań" --> "Projekt architektury"
-    "Projekt architektury" --> "Implementacja"
-    "Implementacja" --> "Testy jednostkowe"
-    "Testy jednostkowe" --> "Wdrożenie"
-    "Wdrożenie" --> "Monitorowanie i utrzymanie"
-    "Monitorowanie i utrzymanie" --> KONIEC
+    START(["START"])
+    LOAD["Wczytaj opis projektu"]
+    ANALYZE["Analiza wymagań"]
+    DESIGN["Projekt architektury"]
+    IMPLEMENT["Implementacja"]
+    TESTS["Testy (jednostkowe)"]
+    DEPLOY["Wdrożenie"]
+    MONITOR["Monitorowanie i utrzymanie"]
+    END(["KONIEC"])
+
+    START --> LOAD --> ANALYZE --> DESIGN --> IMPLEMENT --> TESTS --> DEPLOY --> MONITOR --> END
